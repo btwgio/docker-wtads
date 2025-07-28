@@ -1,0 +1,28 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+/static/
+/media/
+.env
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.vscode/
+.idea/
+*.bak
+*.tmp
+*.coverage
+htmlcov/
+node_modules/
+.env*
+# Docker
+*.pid
+docker-compose.override.yml
+# Windows
+Thumbs.db
